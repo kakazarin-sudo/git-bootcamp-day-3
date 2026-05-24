@@ -9,3 +9,16 @@
 ```bash
 python3 -c "import tasks; tasks.add_task('купить хлеб'); tasks.list_tasks()"
 ```
+
+## TODO
+ - [x] Done
+ - [ ] Not Done
+
+## Установка
+```bash
+sudo install
+```
+
+## Лицензия
+MIT
+
