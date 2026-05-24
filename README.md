@@ -19,6 +19,19 @@ python3 -c "import tasks; tasks.add_task('купить хлеб'); tasks.list_ta
 sudo install
 ```
 
+### Блок H3
+какой то текс тут
+
+<details>
+<summary>Расширенный сценарий (со сворачиваемым блоком)</summary>
+
+```bash
+echo Hello world!
+```
+
+</details>
+
+
 ## Лицензия
 MIT
 
